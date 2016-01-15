@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://ajpy08.github.io
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: ISC Angel Javier Puc Yamá
+email: angelpuc08@gmail.com
+description: "'Ingeniero que tiene ceros y unos en las venas' Soy amante de las nuevas tecnologías, siempre me gusta ir creciendo profesionalmente en las nuevas tecnologías de la actualidad, me gusta experimentar, aprender, compartir conocimiento y crear código. Me gusta el diseño, la creatividad, la mejora continua y todo lo relacionado con Android. Me considero una persona puntual y proactiva, de rápido aprendizaje y confiable."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,16 +14,16 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Angel Javier Puc Yamá
   pic: 1
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ajpy08
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://facebook.com/iscangelpy
+    - title: github
+      url: https://github.com/ajpy08
 
 - name: Larry Parker
   pic: 2
@@ -50,20 +50,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/ajpy08
   - title: facebook
-    url:
+    url: https://facebook.com/iscangelpy
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ajpy08
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Serapio Rendon III
+  - line: Mérida Yucatán México, CP 97285
 
 # Build settings
 markdown: kramdown
