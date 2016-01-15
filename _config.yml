@@ -19,11 +19,11 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: https://twitter.com/ajpy08
+      url: "https://twitter.com/ajpy08"
     - title: facebook
-      url: https://facebook.com/iscangelpy
+      url: "https://facebook.com/iscangelpy"
     - title: github
-      url: https://github.com/ajpy08
+      url: "https://github.com/ajpy08"
 
 - name: Larry Parker
   pic: 2
@@ -50,15 +50,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/ajpy08
+    url: "http://twitter.com/ajpy08"
   - title: facebook
-    url: https://facebook.com/iscangelpy
+    url: "https://facebook.com/iscangelpy"
   - title: stack-overflow
     url: #
   - title: bitbucket 
     url: #
   - title: github
-    url: https://github.com/ajpy08
+    url: "https://github.com/ajpy08"
 
 # Postal address (add as many lines as necessary)
 address:
