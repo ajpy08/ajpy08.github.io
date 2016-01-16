@@ -24,6 +24,8 @@ people:
       url: "https://facebook.com/iscangelpy"
     - title: github
       url: "https://github.com/ajpy08"
+    - title: envelope
+      url: mailto:angelpuc08@gmail.com
 
 - name: Larry Parker
   pic: 2
@@ -59,6 +61,8 @@ social:
     url: #
   - title: github
     url: "https://github.com/ajpy08"
+  - title: envelope
+    url: mailto:angelpuc08@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
