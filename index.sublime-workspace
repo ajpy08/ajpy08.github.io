@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"f",
+				"factorial"
+			],
+			[
+				"r",
+				"raw_input"
+			],
+			[
+				"mi",
+				"mi_funcion2"
+			],
+			[
+				"fu",
+				"mi_funcion"
+			],
+			[
+				"en",
+				"envelope"
+			],
+			[
+				"to",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
 				"bord",
 				"border-box"
 			],
@@ -71,6 +99,25 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "factorial = 0\nacum = 1\nnumero = raw_input(\"Que numero quieres?\")\n\nif numero == 0:\n	factorial = 1\nelif numero == 1:\n	factorial = 2\n\nprint \"El factorial de %i es %i\" %numero %factorial ",
+			"file": "/C/factorial.py",
+			"file_size": 199,
+			"file_write_time": 130978871556094924,
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/funciones.py",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -102,17 +149,51 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/Mis Documentos/Dev/Portafolio",
+		"/D/Mis Documentos/Dev/Portafolio/_includes",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/css",
+		"/D/Mis Documentos/Dev/Portafolio/_layouts"
+	],
 	"file_history":
 	[
-		"/D/Mis Documentos/Dev/Portafolio/_site/style.css",
-		"/D/Mis Documentos/Dev/Portafolio/_site/index.html",
-		"/D/Mis Documentos/Dev/Portafolio/_config.yml",
-		"/D/Mis Documentos/Dev/Portafolio/index.html",
-		"/D/Mis Documentos/Dev/Portafolio/_includes/head.html",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/preguntas.py",
+		"/C/Users/javi/.ssh/id_rsa.pub",
+		"/C/contador.py",
+		"/C/Users/javi/.ssh/known_hosts",
+		"/C/eres.py",
+		"/C/preguntas.py",
+		"/C/hi.py",
+		"/C/Users/javi/Desktop/hi.py",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/team.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/header.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/css/agency.css",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/contacto.html",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/portfolio_grid.html",
+		"/D/Mis Documentos/Dev/Portafolio/index.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/habilidades.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/experiencia.html",
+		"/D/Mis Documentos/Dev/Portafolio/_layouts/default.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/skills.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/modals.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/services.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/contact.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/footer.html",
+		"/D/Mis Documentos/Dev/Portafolio/_config.yml",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/css/bootstrap.min.css",
-		"/D/Mis Documentos/Dev/Portafolio/style.css",
 		"/D/Mis Documentos/Dev/Portafolio2/_config.yml",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/about.html",
+		"/D/Mis Documentos/Dev/Portafolio/_posts/2014-07-18-project-1.markdown",
+		"/D/Mis Documentos/Dev/Portafolio/_posts/2014-07-17-project-2.markdown",
+		"/D/Mis Documentos/Dev/Portafolio/_posts/2014-07-16-project-3.markdown",
+		"/D/Mis Documentos/Dev/Portafolio/_posts/2014-07-15-project-4.markdown",
+		"/D/Mis Documentos/Dev/Portafolio/_posts/2014-07-14-project-5.markdown",
+		"/D/Mis Documentos/Dev/Portafolio/_posts/2014-07-13-project-6.markdown",
+		"/D/Mis Documentos/Dev/Portafolio/_site/index.html",
+		"/D/Mis Documentos/Dev/Portafolio/_site/style.css",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/head.html",
+		"/D/Mis Documentos/Dev/Portafolio/style.css",
 		"/D/Mis Documentos/Dev/Portafolio22/index.html",
 		"/D/Mis Documentos/Dev/Portafolio22/_config.yml",
 		"/D/Mis Documentos/Dev/Portafolio2/README.md",
@@ -160,7 +241,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -174,6 +255,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"section",
+			"#",
+			"portfolio",
+			"contact",
+			"contacto",
+			"col-lg-12",
+			"text-center",
+			"col-",
+			"col",
+			"col-md",
+			"col-md-4",
+			"subheading",
+			"timeline-heading",
+			"timeline-panel",
+			"intro-text",
+			"container",
+			"navbar-brand page-scroll",
+			"btn btn-xl",
+			"intro-text",
 			"header-bg",
 			"font",
 			"Calligraffitti",
@@ -185,6 +285,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"portafolio",
+			"contacto",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -195,18 +298,75 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/factorial.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 48.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/funciones.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -239,7 +399,7 @@
 	"project": "index.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -277,7 +437,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 111.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
