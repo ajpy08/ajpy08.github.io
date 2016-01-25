@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"pos",
+				"post_id"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
 				"f",
 				"factorial"
 			],
@@ -100,22 +116,19 @@
 	"buffers":
 	[
 		{
-			"contents": "factorial = 0\nacum = 1\nnumero = raw_input(\"Que numero quieres?\")\n\nif numero == 0:\n	factorial = 1\nelif numero == 1:\n	factorial = 2\n\nprint \"El factorial de %i es %i\" %numero %factorial ",
-			"file": "/C/factorial.py",
-			"file_size": 199,
-			"file_write_time": 130978871556094924,
+			"file": "/C/Python27/Scripts/django-admin.py",
 			"settings":
 			{
-				"buffer_size": 183,
-				"line_ending": "Windows"
+				"buffer_size": 131,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/funciones.py",
+			"file": "/C/Login/manage.py",
 			"settings":
 			{
-				"buffer_size": 578,
-				"line_ending": "Unix"
+				"buffer_size": 262,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -153,26 +166,48 @@
 	[
 		"/D/Mis Documentos/Dev/Portafolio",
 		"/D/Mis Documentos/Dev/Portafolio/_includes",
-		"/D/Mis Documentos/Dev/Portafolio/_includes/css",
 		"/D/Mis Documentos/Dev/Portafolio/_layouts"
 	],
 	"file_history":
 	[
+		"/C/Login/settings.py",
+		"/C/Users/javi/Desktop/Ejercicios/Python/Clase1/eres.py",
+		"/C/Users/javi/Desktop/Ejercicios/Python/Clase1/funciones.py",
+		"/C/Flask/hello.py",
+		"/C/Flask/flaskdm.py",
+		"/C/hello.py",
+		"/C/Flask/templates/hello.html",
+		"/C/clases.py",
+		"/C/archivos.py",
+		"/C/mi_primera_clase.py",
+		"/C/exceptions.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 3/exceptions.py",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/portfolio_grid.html",
+		"/D/Mis Documentos/Dev/Portafolio/_includes/habilidades.html",
+		"/C/ventanas.py",
+		"/C/gui.py",
+		"/C/javi.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 2/beers.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 2/papel.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 2/piedra-papel-tijeras.png",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 2/factorial.py",
+		"/C/factorial.py",
+		"/C/preguntas.py",
 		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/preguntas.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/hola.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/funciones.py",
+		"/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/eres.py",
 		"/C/Users/javi/.ssh/id_rsa.pub",
 		"/C/contador.py",
 		"/C/Users/javi/.ssh/known_hosts",
 		"/C/eres.py",
-		"/C/preguntas.py",
 		"/C/hi.py",
 		"/C/Users/javi/Desktop/hi.py",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/team.html",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/header.html",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/css/agency.css",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/contacto.html",
-		"/D/Mis Documentos/Dev/Portafolio/_includes/portfolio_grid.html",
 		"/D/Mis Documentos/Dev/Portafolio/index.html",
-		"/D/Mis Documentos/Dev/Portafolio/_includes/habilidades.html",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/experiencia.html",
 		"/D/Mis Documentos/Dev/Portafolio/_layouts/default.html",
 		"/D/Mis Documentos/Dev/Portafolio/_includes/skills.html",
@@ -303,26 +338,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/factorial.py",
+					"file": "/C/Python27/Scripts/django-admin.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 183,
+						"buffer_size": 131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								164,
-								164
+								131,
+								131
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
-						"translation.x": 48.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -331,26 +366,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/D/Mis Documentos/Google Drive/Cursos/Platzi/Cursos/Curso de Python y Django/Clase 1/funciones.py",
+					"file": "/C/Login/manage.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 578,
+						"buffer_size": 262,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								175,
-								176
+								262,
+								262
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
-						"translation.x": -0.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -437,7 +472,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 111.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
